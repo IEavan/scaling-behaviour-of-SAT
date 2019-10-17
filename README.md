@@ -1,6 +1,6 @@
 Scaling Behviour of SAT: Theory and Practice
 ========================
-An exposition on the gap between theoreticalconditional lower bounds for SAT and thepractical performance of SAT solvers.
+An exposition on the gap between theoretical conditional lower bounds for SAT and the practical performance of SAT solvers.
 
 ## Author(s)
 *   Eavan Thomas Pattie
@@ -11,3 +11,5 @@ An exposition on the gap between theoreticalconditional lower bounds for SAT and
 *   Complexity Conjectures and Conditional Lower Bounds
 *   Sparsification Lemma
 *   Structures in SAT
+*   
+Based on the CUED thesis latex template.
